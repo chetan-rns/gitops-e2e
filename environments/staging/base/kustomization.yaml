@@ -1,3 +1,6 @@
+bases:
+  - ../../../apps/app-1/overlays
+
 resources:
 - namespace.yaml
 - rolebinding.yaml
